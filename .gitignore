@@ -1,0 +1,15 @@
+.project
+target
+bin
+.classpath
+/test-output
+/.settings
+**/.settings
+/com
+/application.log
+/sql.log
+*.checkstyle
+.idea
+*.iml
+test-output
+*.log
